@@ -1,0 +1,19 @@
+{
+  "name": "bengalweb",
+  "version": "1.0.0",
+  "description": "typescript webgl game engine?",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blurrypiano/bengalweb.git"
+  },
+  "author": "Brendan Galea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blurrypiano/bengalweb/issues"
+  },
+  "homepage": "https://github.com/blurrypiano/bengalweb#readme"
+}
