@@ -5,6 +5,7 @@ const express = require("express");
 const app = express();
 // Express configuration
 app.set("port", process.env.PORT || 3000);
+app.use(express.static('public'));
 app.get("/", (req, res) => {
     res.send('Hello World!');
 });
