@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/blurrypiano/bengalweb/issues"
   },
-  "homepage": "https://github.com/blurrypiano/bengalweb#readme"
+  "homepage": "https://github.com/blurrypiano/bengalweb#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
