@@ -18,5 +18,8 @@
   "homepage": "https://github.com/blurrypiano/bengalweb#readme",
   "dependencies": {
     "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "@types/node": "^9.4.6"
   }
 }
